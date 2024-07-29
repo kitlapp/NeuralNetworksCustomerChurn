@@ -1,0 +1,11 @@
+.idea/
+.ipynb_checkpoints/
+Audiobooks_data_test.npz
+Audiobooks_data_train.npz
+Audiobooks_data_validation.npz
+TensorFlow_Audiobooks_Machine_Learning_Part1_with_comments.ipynb
+TensorFlow_Audiobooks_Machine_Learning_Part2_with_comments.ipynb
+TensorFlow_Audiobooks_Machine_Learning_Part3_with_comments.ipynb
+TensorFlow_Audiobooks_Machine_Learning_with_comments.ipynb
+TensorFlow_Audiobooks_Preprocessing_with_comments.ipynb
+__pycache__/
