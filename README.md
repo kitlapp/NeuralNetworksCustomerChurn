@@ -16,6 +16,6 @@ What I gained from this project?
 3) I slightly improved all model metrics compared to the instructor’s, and particularly the test accuracy and test loss standard deviations.
 4) My modular programming skills have significantly improved since my previous deep learning project, with fewer functions and more concise information organization.
 5) The model shows very consistent results across multiple runs.
-6) I finally completed the exploration into deep learning with great satisfaction, having developed a solid understanding of deep learning project development. Now, I plan to enhance my mathematical knowledge about Calculus and Linear Algebra and I wait ideal future opportunities to deepen my expertise in Deep Learning.
+6) I finally completed the exploration into deep learning with great satisfaction, having developed a solid understanding of deep learning project development. Now, I am planning to enhance my mathematical knowledge about Calculus and Linear Algebra and waiting for ideal future opportunities to deepen my expertise in Deep Learning.
 
 Thank you for your reading!
