@@ -13,7 +13,8 @@ NOTE: I greatly acknowledge the Udemy course 'The Data Science Course: Complete 
 1. The original Excel datafile that I used.
 3. A '.py' file with the Python scipts I used for developing my model.
 4. The core jupyter file.
-5. The README file
+5. A jupyter file with the instructor's code for comparison purposes.
+6. The README file
 
    --> 4 Files in Total <--
 
