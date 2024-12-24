@@ -151,7 +151,8 @@ def create_model_train_eval_present_results(optimizer, learn_rate, mom, n_range,
         early_stopping = tf.keras.callbacks.EarlyStopping(
             monitor='val_loss',  # Monitor validation loss
             patience=patience,
-            # restore_best_weights=True  # Restore the weights of the best epoch
+
+              # Restore the weights of the best epoch
         )
         # Train the model with the training set and validate on the validation set:
         model.fit(
