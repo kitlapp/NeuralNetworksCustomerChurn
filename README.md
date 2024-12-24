@@ -16,7 +16,7 @@ NOTE: I greatly acknowledge the Udemy course 'The Data Science Course: Complete 
 5. A jupyter file with the instructor's code for comparison purposes.
 6. The README file
 
-   --> 4 Files in Total <--
+   --> 5 Files in Total <--
 
 ## HOW TO SET UP THE ENVIRONMENT:
 1. Download the project as a zip file or clone the repository to your local machine.
